@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single", "Single\Single.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{2D65ADF7-E723-42B9-8379-7C77C5625A1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power of M", "Power of M\Power of M.csproj", "{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2D65ADF7-E723-42B9-8379-7C77C5625A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D65ADF7-E723-42B9-8379-7C77C5625A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D65ADF7-E723-42B9-8379-7C77C5625A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
