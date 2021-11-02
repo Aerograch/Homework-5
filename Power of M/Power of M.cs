@@ -11,6 +11,16 @@ namespace Power_of_M
             int power = m;
             while (true)
             {
+                if (m == 1)
+                {
+                    Console.WriteLine("NO");
+                    break;
+                }
+                if (m == 0)
+                {
+                    Console.WriteLine("YES");
+                    break;
+                }
                 if (power == n)
                 {
                     Console.WriteLine("YES");

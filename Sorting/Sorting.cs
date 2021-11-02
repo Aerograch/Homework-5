@@ -2,7 +2,7 @@
 
 namespace Sorting
 {
-    class Program
+    class Sorting
     {
         static void Main(string[] args)
         {

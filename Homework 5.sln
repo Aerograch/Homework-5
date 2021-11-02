@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power of M", "Power of M\Power of M.csproj", "{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aprox. deflication", "Aprox. deflication\Aprox. deflication.csproj", "{096552AB-5471-4D19-BA28-75FE7B7ABECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{874FA7D0-68C0-4B87-A36B-CA0D46805E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096552AB-5471-4D19-BA28-75FE7B7ABECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096552AB-5471-4D19-BA28-75FE7B7ABECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096552AB-5471-4D19-BA28-75FE7B7ABECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096552AB-5471-4D19-BA28-75FE7B7ABECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
